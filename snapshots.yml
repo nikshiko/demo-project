@@ -1,0 +1,2 @@
+- name: First example
+  url: http://localhost:8000
